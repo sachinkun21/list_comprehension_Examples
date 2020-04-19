@@ -1,1 +1,1 @@
-## Examples of List comprhensions in Python
+## Examples of List comprehensions in Python
